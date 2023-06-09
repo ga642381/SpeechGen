@@ -9,7 +9,9 @@
 * ***Comment***: Work in progress. The first three authors contributed equally
 * ***Comment2***: Haibin Wu is now in job hunting. Contact: f07921092@ntu.edu.tw
 
-<img src="assets/speechgen.png" width=60%>
+<p align="center">
+  <img src="assets/speechgen.png" width=70%>
+<p/>
 
 
 ## Introduction
@@ -26,7 +28,9 @@ In this work, we present pioneering research that explores the application of pr
 ## Demo
 Please refer to: https://ga642381.github.io/SpeechPrompt/speechgen for demos, including **speech translation**, **speech inpainting**, and **speech continuation**. All the tasks are performed in speech-to-speech manner, without any text supervision.
 
-<img src="assets/tasks.png" width=60%>
+<p align="center">
+  <img src="assets/tasks.png" width=70%>
+</p>
 
 ## Citation
 If you find SpeechGen insightful, please consider cite our work using the following BibTex:
