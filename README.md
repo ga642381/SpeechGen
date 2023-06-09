@@ -7,7 +7,7 @@
 * ***Paper Link***: https://arxiv.org/abs/2306.02207
 * ***Authors***: Haibin Wu*, Kai-Wei Chang*, Yuan-Kuei Wu*, Hung-yi Lee
 * ***Comment***: Work in progress. The first three authors contributed equally
-* ***Comment2***: Haibin Wu is now in job hunting. Contact: f07921092@ntu.edu.tw
+* ***Comment2***: [Haibin Wu](https://hbwu-ntu.github.io) is now in job hunting. Contact: f07921092@ntu.edu.tw
 
 <p align="center">
   <img src="assets/speechgen.png" width=70%>
